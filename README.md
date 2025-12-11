@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**BhavyaLuthra18/BhavyaLuthra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#4facfe,#ff6ec4); -webkit-background-clip: text; color: transparent;">
+    Hey there! I'm Bhavya Luthra 👋
+  </span>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=A+developer+who+loves+creating+cool+projects;A+developer+who+loves+UI+%26+bringing+it+alive;Always+learning+new+tech;Building+fun+and+creative+apps+💻;The+loop+goes+on..." />
+</h3>
+
+
