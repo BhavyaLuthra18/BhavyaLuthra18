@@ -6,13 +6,11 @@
     font-size: 2.8rem;
     font-weight: 800;
   ">
-    Hello World! 🌍 I'm Bhavya Luthra
+    Hello World! 🌍 I'm Bhavya Luthra👋
   </span>
 </h1>
 
 <h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=650&color=4FACFE&font=Fira+Code&pause=1200&lines=A+developer+who+loves+creating+cool+projects;A+developer+who+loves+UI+and+bringing+it+alive;Always+learning+new+technologies+every+day"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=A+developer+who+loves+creating+cool+projects;A+developer+who+loves+UI+and+bringing+it+alive;Always+learning+new+technologies+every+day" />
 </h3>
 
