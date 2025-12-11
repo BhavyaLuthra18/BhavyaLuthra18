@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=A+developer+who+loves+creating+cool+projects;A+developer+who+loves+UI+%26+bringing+it+alive;Always+learning+new+tech;Building+fun+and+creative+apps+💻;The+loop+goes+on..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=A+developer+who+loves+creating+cool+projects;A+developer+who+loves+UI+%26+bringing+it+alive;Always+learning+new+tech;Building+fun+and+creative+apps />
 </h3>
 
 
