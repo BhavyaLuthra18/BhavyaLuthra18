@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(to right, #4facfe, #00f2fe); padding: 20px; border-radius: 10px;">
+
 
 <p align="center">
   <img 
@@ -8,12 +8,12 @@
 </p>
 
 <br/>
-
 <h3 align="center"> 
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&color=0e153a&center=true&vCenter=true&width=600&lines=developer+who+loves+creating+cool+projects;developer+who+loves+ui+and+bringing+it+alive;always+learning+new+technologies+every+day" 
+    src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=developer+who+loves+creating+cool+projects;developer+who+loves+UI+and+bringing+it+alive;always+learning+new+technologies+every+day" 
     alt="typing animation"
   /> 
 </h3>
+
 
 </div>
