@@ -1,4 +1,4 @@
-<div align="center" style="margin:16px 0;">
+<div align="center" >
   <pre style="
     display:inline-block;
     margin:0;
@@ -16,7 +16,7 @@
   const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
 </h2>
 
-<h3 align="center" style="margin-top:-6px; margin-bottom:0;">
+<h3 align="center" margin-bottom:0;">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=developer+who+loves+creating+cool+projects;developer+who+loves+ui+and+bringing+it+alive;always+learning+new+technologies+every+day"
     alt="typing animation"
