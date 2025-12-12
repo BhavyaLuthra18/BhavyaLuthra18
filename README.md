@@ -1,29 +1,36 @@
-<div align="center">
-  <svg width="100%" height="72" viewBox="0 0 1400 72" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="intro-large">
-    <defs>
-      <linearGradient id="g2" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#7a5af9"/>
-        <stop offset="45%" stop-color="#4facfe"/>
-        <stop offset="100%" stop-color="#ff6ec4"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:900; font-size:34px;"
-          fill="url(#g2)">
-      const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
-    </text>
-  </svg>
+<div align="center" style="margin:16px 0;">
+  <pre style="
+    display:inline-block;
+    margin:0;
+    padding:20px 28px;
+    border-radius:12px;
+    background:linear-gradient(135deg, #0a1a3d, #4b1f6f);
+    color:#cbe7ff;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
+    font-size:17px;
+    line-height:1.45;
+    min-width:360px;
+    border:1px solid rgba(255,255,255,0.05);
+  ">
+<h2 align="center" style="font-weight:700; color:#4facfe; margin-top:0; margin-bottom:6px;">
+  const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
+</h2>
+
+<h3 align="center" style="margin-top:-6px; margin-bottom:0;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=developer+who+loves+creating+cool+projects;developer+who+loves+ui+and+bringing+it+alive;always+learning+new+technologies+every+day"
+    alt="typing animation"
+  />
+</h3>
+
+  </pre>
 </div>
 
 
-<br/>
 
-<h3 align="center"> 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=developer+who+loves+creating+cool+projects;developer+who+loves+ui+and+bringing+it+alive;always+learning+new+technologies+every+day" 
-    alt="typing animation"
-  /> 
-</h3>
+
+
+
 
 
 
