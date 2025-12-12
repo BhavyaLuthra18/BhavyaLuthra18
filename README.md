@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/const_intro_=_%7B_greeting%3A_%22Hello_World_👋%22%2C_name%3A_%22Bhavya_Luthra%22_%7D-white?style=for-the-badge&logo=javascript&color=A67DFF" alt="const intro object">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/const%20intro%20%3D%20%7B%20greeting%3A%20%22Hello%20World%20%F0%9F%91%8B%22%2C%20name%3A%3A%20%22Bhavya%20Luthra%22%20%7D%3B-6A5AF9%7C4FACFE?style=for-the-badge&labelColor=6A5AF9&color=4FACFE" />
+</p>
 
 
 
