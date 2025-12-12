@@ -1,7 +1,6 @@
 <div align="center" >
   <pre style="
     display:inline-block;
-    margin:0;
     padding:20px 28px;
     border-radius:12px;
     background:linear-gradient(135deg, #0a1a3d, #4b1f6f);
@@ -12,7 +11,7 @@
     min-width:360px;
     border:1px solid rgba(255,255,255,0.05);
   ">
-<h2 align="center" style="font-weight:700; color:#4facfe; margin-top:0; margin-bottom:6px;">
+<h2 align="center" style="font-weight:700; color:#4facfe;">
   const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
 </h2>
 
