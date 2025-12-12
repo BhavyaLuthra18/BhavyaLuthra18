@@ -1,19 +1,20 @@
 <div align="center">
-  <svg width="100%" height="72" viewBox="0 0 1400 72" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="intro-large">
+  <svg width="100%" height="64" viewBox="0 0 1400 64" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="intro">
     <defs>
-      <linearGradient id="g2" x1="0%" x2="100%">
+      <linearGradient id="g_intro" x1="0%" x2="100%">
         <stop offset="0%" stop-color="#7a5af9"/>
         <stop offset="45%" stop-color="#4facfe"/>
         <stop offset="100%" stop-color="#ff6ec4"/>
       </linearGradient>
     </defs>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:900; font-size:34px;"
-          fill="url(#g2)">
+          style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:900; font-size:28px; letter-spacing:0.2px;"
+          fill="url(#g_intro)">
       const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
     </text>
   </svg>
 </div>
+
 
 
 
