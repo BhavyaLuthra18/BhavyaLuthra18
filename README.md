@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/const%20intro%20=%20{greeting:%20%22hello%20world%20👋%22,%20name:%20%22bhavya%20luthra%22}-1e2a78%7C5a3ea6?style=for-the-badge&labelColor=1e2a78&color=5a3ea6" />
+  <img src="https://img.shields.io/badge/const%20intro%20=%20{greeting:%20%22hello%20world%20👋%22,%20name:%20%22bhavya%20luthra%22}-0e153a%7C3a2a6a?style=for-the-badge&labelColor=0e153a&color=3a2a6a" />
 </p>
 
 
