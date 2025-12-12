@@ -1,9 +1,20 @@
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/const%20intro%20=%20{greeting:%20%22hello%20world%20👋%22,%20name:%20%22bhavya%20luthra%22}-4FACFE%7C6F2DA8?style=for-the-badge&labelColor=0e153a&color=6F2DA8"
-    alt="const intro object badge"
-  />
-</p>
+<div align="center">
+  <svg width="100%" height="72" viewBox="0 0 1400 72" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="intro-large">
+    <defs>
+      <linearGradient id="g2" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#7a5af9"/>
+        <stop offset="45%" stop-color="#4facfe"/>
+        <stop offset="100%" stop-color="#ff6ec4"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:900; font-size:34px;"
+          fill="url(#g2)">
+      const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
+    </text>
+  </svg>
+</div>
+
 
 <br/>
 
