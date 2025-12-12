@@ -1,13 +1,14 @@
 <p align="center" style="
-  font-size: 28px;
-  font-weight: 800;
-  background: linear-gradient(90deg, #4facfe, #ff6ec4);
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: .5px;
+  background: linear-gradient(90deg, #6a5af9, #4facfe, #ff6ec4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin: 0;
 ">
   const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
 </p>
+
 
 
 <h3 align="center">
