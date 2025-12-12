@@ -1,11 +1,6 @@
-<p align="center"
-  style=" font-size: 55px;
-  font-weight: 900; 
-  letter-spacing: .5px;
-  background: linear-gradient(90deg, #6a5af9, #4facfe, #ff6ec4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; "> 
-  const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
-</p>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/const_intro_=_%7B_greeting%3A_%22Hello_World_👋%22%2C_name%3A_%22Bhavya_Luthra%22_%7D-white?style=for-the-badge&logo=javascript&color=A67DFF" alt="const intro object">
+</div>
 
 
 
