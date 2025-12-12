@@ -1,7 +1,20 @@
-<p align="center"
-style=" font-size: 32px; font-weight: 900; letter-spacing: .5px; background: linear-gradient(90deg, #6a5af9, #4facfe, #ff6ec4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; ">
-  const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
-</p>
+<div align="center">
+  <svg width="100%" height="72" viewBox="0 0 1400 72" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="intro-large">
+    <defs>
+      <linearGradient id="g2" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#7a5af9"/>
+        <stop offset="45%" stop-color="#4facfe"/>
+        <stop offset="100%" stop-color="#ff6ec4"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:900; font-size:34px;"
+          fill="url(#g2)">
+      const intro = { greeting: "Hello World 👋", name: "Bhavya Luthra" };
+    </text>
+  </svg>
+</div>
+
 
 
 <h3 align="center"> 
